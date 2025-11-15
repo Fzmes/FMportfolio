@@ -1,6 +1,4 @@
 import React, { Component } from "react";
-import PullRequestChart from "../../components/pullRequestChart/PullRequestChart.js";
-import IssueChart from "../../components/issueChart/IssueChart.js";
 import { Fade } from "react-reveal";
 import "./OpensourceCharts.css";
 
@@ -16,10 +14,7 @@ class OpensourceCharts extends Component {
             </h1>
           </Fade>
         </div>
-        <div className="os-charts-body-div">
-          <PullRequestChart />
-          <IssueChart />
-        </div>
+        <div className="os-charts-body-div"></div>
       </div>
     );
   }
