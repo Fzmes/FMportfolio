@@ -7,13 +7,13 @@ const settings = {
 
 //SEO Related settings
 const seo = {
-  title: "Ashutosh's Portfolio",
+  title: "Fatima's Portfolio",
   description:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   og: {
-    title: "Ashutosh Hathidara Portfolio",
+    title: "Meskine Fatima Ezzahra Portfolio",
     type: "website",
-    url: "http://ashutoshhathidara.com/",
+    url: "https://fzmes.github.io/FMportfolio/",
   },
 };
 
