@@ -491,7 +491,7 @@ const experience = {
   subtitle: "Internship and Volunteership",
   description:
     "I have worked with many evolving startups as ML and DL Developer, Designer and Software Architect. I have also worked with some well established companies mostly as AI Developer. I love organising events and that is why I am also involved with many opensource communities as a representative.",
-  header_image_path: "experience.svg",
+  header_image_path: "experience.png",
   sections: [
     {
       title: "Work",
@@ -651,13 +651,13 @@ const projectsHeader = {
   title: "Projects",
   description:
     "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science projects and deploy them to web applications using cloud infrastructure.",
-  avatar_image_path: "projects_image.svg",
+  avatar_image_path: "projects_image.png",
 };
 
 const publicationsHeader = {
   title: "Publications",
   description: "Some of my published Articles, Blogs and Research.",
-  avatar_image_path: "projects_image.svg",
+  avatar_image_path: "projects_image.png",
 };
 
 const publications = {
@@ -699,7 +699,7 @@ const contactPageData = {
     subtitle:
       "I like to document some of my experiences in professional career journey as well as some technical knowledge sharing.",
     link: "https://blogs.ashutoshhathidara.com/",
-    avatar_image_path: "blogs_image.svg",
+    avatar_image_path: "blogs_image.png",
   },
   addressSection: {
     title: "Address",
@@ -709,7 +709,7 @@ const contactPageData = {
     region: "California",
     postalCode: "95129",
     streetAddress: "Saratoga Avenue",
-    avatar_image_path: "address_image.svg",
+    avatar_image_path: "address_image.png",
     location_map_link: "https://maps.app.goo.gl/NvYZqa34Wye4tpS17",
   },
   phoneSection: {

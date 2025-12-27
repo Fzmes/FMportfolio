@@ -6,7 +6,7 @@ const easeOut = [0.22, 1, 0.36, 1];
 
 const Loader = ({ onComplete, duration = 4000 }) => {
   const [isVisible, setIsVisible] = useState(true);
-  const nameParts = ["kkkk", "uur", "fff"];
+  const nameParts = ["Fatima", "Ezzahra", "Meskine"];
 
   useEffect(() => {
     const timer = setTimeout(() => {
