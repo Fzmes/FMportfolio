@@ -1,4 +1,133 @@
-.raw_logo {
-  height: 305;
-  width: 440;
+.loader-container {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #0f1729 0%, #1a1f3a 50%, #0f1729 100%);
+  overflow: hidden;
+}
+
+.loader-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  z-index: 10;
+}
+
+/* Neural network background */
+.neural-network {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.neural-line {
+  position: absolute;
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(139, 92, 246, 0.3),
+    transparent
+  );
+  transform-origin: left center;
+}
+
+.neural-node {
+  position: absolute;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background-color: rgba(139, 92, 246, 0.4);
+  box-shadow: 0 0 8px rgba(139, 92, 246, 0.3);
+}
+
+/* Name styling */
+.name-container {
+  overflow: hidden;
+  margin-bottom: 1rem;
+}
+
+.name-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.name-part {
+  display: flex;
+}
+
+.letter {
+  display: inline-block;
+  font-family: "Playfair Display", serif;
+  font-size: 2.5rem;
+  font-weight: 500;
+  color: #f8fafc;
+  letter-spacing: 0.02em;
+}
+
+@media (min-width: 768px) {
+  .letter {
+    font-size: 3.5rem;
+  }
+}
+
+@media (min-width: 1024px) {
+  .letter {
+    font-size: 4.5rem;
+  }
+}
+
+/* Data pulse bar */
+.data-pulse-container {
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  gap: 3px;
+  height: 24px;
+  margin-top: 1.5rem;
+}
+
+.data-bar {
+  width: 3px;
+  background: linear-gradient(to top, #8b5cf6, #a78bfa);
+  border-radius: 2px;
+}
+
+/* Subtitle */
+.subtitle {
+  margin-top: 1.5rem;
+  font-family: "Inter", sans-serif;
+  font-size: 0.75rem;
+  letter-spacing: 0.25em;
+  text-transform: uppercase;
+  color: rgba(139, 92, 246, 0.8);
+}
+
+@media (min-width: 768px) {
+  .subtitle {
+    font-size: 0.875rem;
+  }
+}
+
+/* Flowing dots */
+.flowing-dots {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.flow-dot {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  border-radius: 50%;
+  background-color: rgba(139, 92, 246, 0.5);
 }
