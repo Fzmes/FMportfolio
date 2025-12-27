@@ -1,6 +1,6 @@
 import { motion, AnimatePresence } from "framer-motion";
 import { useState, useEffect } from "react";
-import "./Loader.css";
+import "./LoaderLogo.css";
 
 const easeOut = [0.22, 1, 0.36, 1];
 
