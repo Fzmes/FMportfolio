@@ -11,7 +11,7 @@ export default class Error extends Component {
     const theme = this.props.theme;
     return (
       <div className="error-main">
-        <Header theme={this.props.theme} />
+        <Header theme={theme} />
         <div className="error-class">
           <Fade bottom duration={2000} distance="40px">
             <h1>Woops</h1>
@@ -19,7 +19,7 @@ export default class Error extends Component {
             <p>The requested page is unavailable at the moment!</p>
             <Link
               className="main-button"
-              to="/home"
+              to="#/home" // <-- hash route
               style={{
                 color: theme.body,
                 backgroundColor: theme.text,
@@ -31,8 +31,8 @@ export default class Error extends Component {
             </Link>
           </Fade>
         </div>
-        <Footer theme={this.props.theme} />
-        <TopButton theme={this.props.theme} />
+        <Footer theme={theme} />
+        <TopButton theme={theme} />
       </div>
     );
   }
