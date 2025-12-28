@@ -14,12 +14,7 @@ function AnimatedSplash(props) {
 }
 
 class Splash extends Component {
-  constructor(props) {
-    super(props);
-    this.state = {
-      redirect: false,
-    };
-  }
+  state = { redirect: false };
 
   componentDidMount() {
     this.id = setTimeout(() => this.setState({ redirect: true }), 5500);
@@ -31,11 +26,9 @@ class Splash extends Component {
 
   render() {
     if (this.state.redirect) {
-      // Hash-based redirect for GitHub Pages
-      window.location.hash = "#/home";
-      return null;
+      // Redirection via Link/Redirect
+      return <Redirect to="/home" />;
     }
-
     return <AnimatedSplash theme={this.props.theme} />;
   }
 }

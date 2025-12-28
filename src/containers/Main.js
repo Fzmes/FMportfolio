@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Route, Switch, BrowserRouter } from "react-router-dom";
+import { Route, Switch, HashRouter } from "react-router-dom";
 
 import Home from "../pages/home/HomeComponent";
 import Splash from "../pages/splash/Splash";
@@ -10,7 +10,6 @@ import Contact from "../pages/contact/ContactComponent";
 import Projects from "../pages/projects/Projects";
 import { settings } from "../portfolio.js";
 import Error404 from "../pages/errors/error404/Error";
-import { HashRouter } from "react-router-dom"; // import HashRouter
 
 export default class Main extends Component {
   render() {
