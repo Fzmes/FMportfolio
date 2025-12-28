@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d451cfecf9cd86c52f6ee042746e8fcb",
+    "revision": "f0570b98bbd4e131bca9cdad9917a8f3",
     "url": "/FMportfolio/index.html"
   },
   {
-    "revision": "7fa0c96f242de2b4cc44",
-    "url": "/FMportfolio/static/css/main.f71f2cb8.chunk.css"
+    "revision": "950ea60dc7559f90b8b0",
+    "url": "/FMportfolio/static/css/main.1abfb449.chunk.css"
   },
   {
-    "revision": "e903257ff74ca665b3fb",
-    "url": "/FMportfolio/static/js/2.531ab074.chunk.js"
+    "revision": "2a4adb2f5bec6e9560ea",
+    "url": "/FMportfolio/static/js/2.53f4c561.chunk.js"
   },
   {
-    "revision": "7fa0c96f242de2b4cc44",
-    "url": "/FMportfolio/static/js/main.8d49c5ec.chunk.js"
+    "revision": "950ea60dc7559f90b8b0",
+    "url": "/FMportfolio/static/js/main.e9f443f4.chunk.js"
   },
   {
     "revision": "945c67269b21619c371f",
@@ -22,6 +22,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
     "url": "/FMportfolio/static/media/Agustina.21f233e1.woff"
+  },
+  {
+    "revision": "d2467e79cf9a302c5fcb70817e64af7b",
+    "url": "/FMportfolio/static/media/Contactimg.d2467e79.png"
   },
   {
     "revision": "4457817ac2b9993c65e81aa05828fe9c",
@@ -52,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FMportfolio/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
+    "revision": "0e33a06ee06f98fc0d69ac084b6784e4",
+    "url": "/FMportfolio/static/media/address_image.0e33a06e.png"
+  },
+  {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/FMportfolio/static/media/address_image.16559172.svg"
   },
@@ -68,8 +76,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FMportfolio/static/media/blogs_image.058eca4c.svg"
   },
   {
+    "revision": "5e79a1d4e0f676868ddcf5e4ede8c58a",
+    "url": "/FMportfolio/static/media/blogs_image.5e79a1d4.png"
+  },
+  {
+    "revision": "167f086b648204315f0db2794c0f1500",
+    "url": "/FMportfolio/static/media/bri.167f086b.png"
+  },
+  {
+    "revision": "d077682871b8b936592905d564f45436",
+    "url": "/FMportfolio/static/media/camp.d0776828.png"
+  },
+  {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
     "url": "/FMportfolio/static/media/cloud_infrastructure.cacbc42b.svg"
+  },
+  {
+    "revision": "e8fff3f2fa691e1a1fb6ae4d3ccbd890",
+    "url": "/FMportfolio/static/media/cloud_infrastructure.e8fff3f2.png"
   },
   {
     "revision": "fee92c18b1cfbd1faa704c51047f113d",
@@ -80,8 +104,28 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FMportfolio/static/media/contactMail.5f915405.png"
   },
   {
+    "revision": "98ccf0603e0e898821a1151e42012a91",
+    "url": "/FMportfolio/static/media/dama.98ccf060.png"
+  },
+  {
+    "revision": "4724a1e1027686f820f9ea69656a80ef",
+    "url": "/FMportfolio/static/media/data_science.4724a1e1.png"
+  },
+  {
     "revision": "ebf35d7f33ebbd4a4c6cff7e66e21fdb",
     "url": "/FMportfolio/static/media/data_science.ebf35d7f.svg"
+  },
+  {
+    "revision": "737794b52c7c3c827d55570b21182867",
+    "url": "/FMportfolio/static/media/data_science1.737794b5.png"
+  },
+  {
+    "revision": "ba0cc1980684e6866b8e730dd3977a97",
+    "url": "/FMportfolio/static/media/data_science2.ba0cc198.png"
+  },
+  {
+    "revision": "860b172b449d886ddc6edbbd305874ac",
+    "url": "/FMportfolio/static/media/data_science3.860b172b.png"
   },
   {
     "revision": "75a7107b7739a46950f66de29779eb52",
@@ -98,6 +142,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",
     "url": "/FMportfolio/static/media/education.3bab7a9d.svg"
+  },
+  {
+    "revision": "877702731e8a075aa116543a12817472",
+    "url": "/FMportfolio/static/media/ensiasd.87770273.png"
+  },
+  {
+    "revision": "5f1e7d36382f07e328bb0032bb6f8260",
+    "url": "/FMportfolio/static/media/experience.5f1e7d36.png"
   },
   {
     "revision": "a00ede3f70759480e81f14f203edaa51",
@@ -168,6 +220,18 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FMportfolio/static/media/feelingProud.2936ce95.svg"
   },
   {
+    "revision": "7cd92f8f30d0c4977ba66c01ab3f4cdc",
+    "url": "/FMportfolio/static/media/feelingProud.7cd92f8f.png"
+  },
+  {
+    "revision": "a45433817b72c465f6ca70dd7da23b53",
+    "url": "/FMportfolio/static/media/feelingProud1.a4543381.png"
+  },
+  {
+    "revision": "dcc1975965c4707d3cb1cf94ac22ac13",
+    "url": "/FMportfolio/static/media/fullstack.dcc19759.png"
+  },
+  {
     "revision": "fce6080726685cabdb4f75a0d8018325",
     "url": "/FMportfolio/static/media/fullstack.fce60807.svg"
   },
@@ -188,12 +252,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FMportfolio/static/media/googleAssistant.a6addc3f.svg"
   },
   {
+    "revision": "b4dcdf056435c5d94bf141ed29d6d5d3",
+    "url": "/FMportfolio/static/media/hack.b4dcdf05.png"
+  },
+  {
+    "revision": "b4876e7cb0d40c33e08f35efe72b4f52",
+    "url": "/FMportfolio/static/media/hp.b4876e7c.png"
+  },
+  {
     "revision": "d3fccbe1db76b96f4f320d9c0f7da30c",
     "url": "/FMportfolio/static/media/ibm_logo.d3fccbe1.png"
   },
   {
+    "revision": "ff3cdfc133b22dfc07abbb46a0a7809e",
+    "url": "/FMportfolio/static/media/ibn.ff3cdfc1.png"
+  },
+  {
     "revision": "571a8584e69ecfbe326c8b8385fbbf54",
     "url": "/FMportfolio/static/media/iiitk_logo.571a8584.png"
+  },
+  {
+    "revision": "52f8a09d3d967fead5f926fdee7ffa1d",
+    "url": "/FMportfolio/static/media/image.52f8a09d.png"
+  },
+  {
+    "revision": "34f8bd19ae5c8fc56c0f67f1bf633591",
+    "url": "/FMportfolio/static/media/inco.34f8bd19.png"
   },
   {
     "revision": "29152cf756a1facead5393c32e373371",
@@ -240,6 +324,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/FMportfolio/static/media/pwa.71408db7.png"
   },
   {
+    "revision": "dad50ff2306db12a4ad9bfe5c00f76bb",
+    "url": "/FMportfolio/static/media/quantium.dad50ff2.png"
+  },
+  {
+    "revision": "2444a2cb2be28eb99a5d1c3c6958b762",
+    "url": "/FMportfolio/static/media/simpleli.2444a2cb.png"
+  },
+  {
     "revision": "2c497738be3831492aeb6bdc43f19154",
     "url": "/FMportfolio/static/media/stanford_logo.2c497738.png"
   },
@@ -254,6 +346,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0993e3246bf5146154391a0afef79b03",
     "url": "/FMportfolio/static/media/tiktok_logo.0993e324.png"
+  },
+  {
+    "revision": "a00bb95ba4d9af31bfb9ad580e43bcad",
+    "url": "/FMportfolio/static/media/tweadup.a00bb95b.png"
   },
   {
     "revision": "d63630893eb8cb64af65f395d393c481",
