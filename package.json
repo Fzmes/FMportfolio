@@ -2,7 +2,7 @@
   "private": true,
   "name": "FMportfolio",
   "version": "0.1.0",
-  "homepage": "https://fzmes.github.io/FMportfolio/home",
+  "homepage": "https://fzmes.github.io/FMportfolio",
   "scripts": {
     "build": "react-scripts --openssl-legacy-provider build",
     "predeploy": "npm run build",
