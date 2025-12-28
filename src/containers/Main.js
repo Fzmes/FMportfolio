@@ -14,7 +14,7 @@ import Error404 from "../pages/errors/error404/Error";
 export default class Main extends Component {
   render() {
     return (
-      <BrowserRouter basename="/FMportfolio">
+      <HashRouter>
         <Switch>
           <Route
             path="/"
@@ -32,26 +32,24 @@ export default class Main extends Component {
             render={(props) => <Home {...props} theme={this.props.theme} />}
           />
           <Route
-            path="/experience"
-            render={(props) => (
-              <Experience {...props} theme={this.props.theme} />
-            )}
-          />
-          <Route
             path="/education"
             render={(props) => (
               <Education {...props} theme={this.props.theme} />
             )}
           />
           <Route
-            path="/opensource"
+            path="/experience"
             render={(props) => (
-              <Opensource {...props} theme={this.props.theme} />
+              <Experience {...props} theme={this.props.theme} />
             )}
           />
           <Route
             path="/contact"
             render={(props) => <Contact {...props} theme={this.props.theme} />}
+          />
+          <Route
+            path="/projects"
+            render={(props) => <Projects {...props} theme={this.props.theme} />}
           />
           {settings.isSplash && (
             <Route
@@ -60,16 +58,11 @@ export default class Main extends Component {
             />
           )}
           <Route
-            path="/projects"
-            render={(props) => <Projects {...props} theme={this.props.theme} />}
-          />
-          {/* Catch-all 404 */}
-          <Route
             path="*"
             render={(props) => <Error404 {...props} theme={this.props.theme} />}
           />
         </Switch>
-      </BrowserRouter>
+      </HashRouter>
     );
   }
 }
