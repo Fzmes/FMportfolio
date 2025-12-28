@@ -38,8 +38,8 @@ class Header extends Component {
             <ul className="menu" style={{ backgroundColor: theme.body }}>
               <li>
                 <NavLink
-                  to="#/home"
-                  tag={Link}
+                  to="/home"
+                  exact
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
@@ -50,8 +50,8 @@ class Header extends Component {
               </li>
               <li>
                 <NavLink
-                  to="#/education"
-                  tag={Link}
+                  to="/education"
+                  exact
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
@@ -62,8 +62,8 @@ class Header extends Component {
               </li>
               <li>
                 <NavLink
-                  to="#/experience"
-                  tag={Link}
+                  to="/experience"
+                  exact
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
@@ -74,8 +74,8 @@ class Header extends Component {
               </li>
               <li>
                 <NavLink
-                  to="#/contact"
-                  tag={Link}
+                  to="/contact"
+                  exact
                   activeStyle={{ fontWeight: "bold" }}
                   style={{ color: theme.text }}
                   onMouseEnter={(event) => onMouseEnter(event, theme.highlight)}
