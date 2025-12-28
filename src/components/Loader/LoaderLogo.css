@@ -54,7 +54,7 @@
 .name-container {
   overflow: visible; /* allow letters to animate outside container */
   margin-bottom: 1rem;
-  transform: translateY(-12px);
+  transform: translateY(5rem);
 }
 
 .name-row {
