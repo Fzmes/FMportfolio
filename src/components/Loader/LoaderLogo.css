@@ -54,6 +54,7 @@
 .name-container {
   overflow: visible; /* allow letters to animate outside container */
   margin-bottom: 1rem;
+  transform: translateY(-12px);
 }
 
 .name-row {
@@ -137,4 +138,14 @@
   height: 2px;
   border-radius: 50%;
   background-color: rgba(139, 92, 246, 0.5);
+}
+.data-pulse-container {
+  margin-top: 5rem;
+}
+
+.subtitle {
+  margin-top: 2rem;
+}
+.loader-content {
+  padding-bottom: 3.5rem;
 }

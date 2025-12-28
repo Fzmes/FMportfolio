@@ -21,17 +21,17 @@ const Loader = ({ onComplete, duration = 4000 }) => {
 
   const neuralNodes = [...Array(12)].map((_, i) => ({
     x: 10 + (i % 4) * 28,
-    y: 15 + Math.floor(i / 4) * 30,
+    y: 20 + Math.floor(i / 4) * 30, // top row 20%, middle 50%, bottom 80%
     delay: i * 0.15,
   }));
 
   const neuralLines = [
-    { x1: 10, y1: 15, x2: 38, y2: 45, delay: 0.3 },
-    { x1: 38, y1: 15, x2: 66, y2: 45, delay: 0.5 },
-    { x1: 66, y1: 15, x2: 94, y2: 45, delay: 0.7 },
-    { x1: 10, y1: 45, x2: 38, y2: 75, delay: 0.9 },
-    { x1: 38, y1: 45, x2: 66, y2: 75, delay: 1.1 },
-    { x1: 66, y1: 45, x2: 94, y2: 15, delay: 1.3 },
+    { x1: 10, y1: 20, x2: 38, y2: 50, delay: 0.3 },
+    { x1: 38, y1: 20, x2: 66, y2: 50, delay: 0.5 },
+    { x1: 66, y1: 20, x2: 94, y2: 50, delay: 0.7 },
+    { x1: 10, y1: 50, x2: 38, y2: 80, delay: 0.9 },
+    { x1: 38, y1: 50, x2: 66, y2: 80, delay: 1.1 },
+    { x1: 66, y1: 50, x2: 94, y2: 20, delay: 1.3 },
   ];
 
   let letterIndex = 0;
