@@ -13,10 +13,10 @@ Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisatio
 
 ## 🚀 Liens du Portfolio
 
-[🌐 Accueil](https://llll.github.io/llportfolio/home)  
-[🎓 Éducation](https://llll.github.io/llportfolio/education)  
-[💼 Expériences](https://llll.github.io/llportfolio/experience)  
-[📬 Contact](https://llll.github.io/llportfolio/contact)  
+[🌐 Accueil](https://fzmes.github.io/FMportfolio/home)  
+[🎓 Éducation](https://fzmes.github.io/FMportfolio/education)  
+[💼 Expériences](https://fzmes.github.io/FMportfolio/experience)  
+[📬 Contact](https://fzmes.github.io/FMportfolio/contact)  
 
 ---
 
@@ -49,16 +49,6 @@ Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisatio
 
 ---
 
-## ✨ Projets en Vedette
-
-| Projet | Description | Lien |
-|--------|------------|------|
-| Projet 1 | Analyse de données COVID-19 📈 | [Voir le projet](https://llll.github.io/llportfolio/home#covid) |
-| Projet 2 | Détection d’images avec Machine Learning 🖼️ | [Voir le projet](https://llll.github.io/llportfolio/home#ml) |
-| Projet 3 | Dashboard interactif 📊 | [Voir le projet](https://llll.github.io/llportfolio/home#dashboard) |
-
----
-
 ## 🎨 Badges & Stats GitHub
 
 <p align="center">
@@ -69,8 +59,8 @@ Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisatio
 </p>
 
 <p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llll&layout=compact&theme=radical)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=llll&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzmes&layout=compact&theme=radical)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fzmes&show_icons=true&theme=radical)
 </p>
 
 ---
@@ -78,9 +68,8 @@ Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisatio
 ## 💬 Contactez-moi
 
 <p align="center">
-  📧 Email : <a href="mailto:tonemail@example.com">tonemail@example.com</a><br/>
-  💼 LinkedIn : <a href="https://www.linkedin.com/in/tonprofil">linkedin.com/in/tonprofil</a><br/>
-  🐦 Twitter : <a href="https://twitter.com/tonpseudo">@tonpseudo</a>
+  📧 Email : <a href="mailto:meskinefatimaezzahra@gmail.com">meskinefatimaezzahra@gmail.com</a><br/>
+  💼 LinkedIn : <a href="https://www.linkedin.com/in/fatima-ezzahra-meskine">linkedin.com/in/tonprofil</a><br/>
 </p>
 
 ---
