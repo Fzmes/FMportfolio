@@ -4,16 +4,16 @@ import Main from "./containers/Main";
 import { ThemeProvider } from "styled-components";
 import { chosenTheme } from "./theme";
 import { GlobalStyles } from "./global";
-import { BrowserRouter } from "react-router-dom"; // import BrowserRouter
+import { HashRouter } from "react-router-dom"; // import HashRouter
 
 function App() {
   return (
     <ThemeProvider theme={chosenTheme}>
       <>
         <GlobalStyles />
-        <BrowserRouter>
+        <HashRouter>
           <Main theme={chosenTheme} />
-        </BrowserRouter>
+        </HashRouter>
       </>
     </ThemeProvider>
   );
