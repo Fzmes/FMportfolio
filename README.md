@@ -33,8 +33,6 @@ Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisatio
 
 ---
 
-## 🎨 Badges & Stats GitHub
-
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -42,10 +40,6 @@ Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisatio
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-<p align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fzmes&layout=compact&theme=radical)
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fzmes&show_icons=true&theme=radical)
-</p>
 
 ---
 
