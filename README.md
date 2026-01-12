@@ -1,24 +1,8 @@
-# 🌟 Mon Portfolio - Data Science & IA - MESKINE FATIMA EZZAHRA
+# Mon Portfolio - Data Science & IA - MESKINE FATIMA EZZAHRA
 
-Bienvenue sur mon **portfolio personnel** ! 💻✨  
+Bienvenue sur mon **portfolio personnel** ! 💻  
 Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisation de données.  
 
-<p align="center">
-  <img src="https://c.tenor.com/I6kN-6X7nhAAAAAj/loading-buffering.gif" width="200"/>
-  <br/>
-  Chargement du portfolio... 😎
-</p>
-
----
-
-## 🚀 Liens du Portfolio
-
-[🌐 Accueil](https://fzmes.github.io/FMportfolio/home)  
-[🎓 Éducation](https://fzmes.github.io/FMportfolio/education)  
-[💼 Expériences](https://fzmes.github.io/FMportfolio/experience)  
-[📬 Contact](https://fzmes.github.io/FMportfolio/contact)  
-
----
 
 ## 🛠️ Technologies Utilisées
 
@@ -38,7 +22,7 @@ Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisatio
 
 ---
 
-## 🌈 Fonctionnalités Clés
+## Fonctionnalités Clés
 
 - ⚡ **SPA rapide et responsive**  
 - 🎯 **Navigation fluide** avec React Router (`basename` pour GitHub Pages)  
@@ -73,9 +57,6 @@ Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisatio
 </p>
 
 ---
-
-## 🌟 Astuce Animée : Sections Pliables
-
 <details>
 <summary>Voir mes compétences techniques 🛠️</summary>
 
@@ -89,11 +70,9 @@ Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisatio
 
 <details>
 <summary>Voir mes hobbies 🎯</summary>
-
-- Data Visualization 📊  
-- IA & Machine Learning 🤖  
-- Voyages ✈️  
-- Photographie 📸  
+- Voyages ✈️
+- Photographie 📸
+- Cooking
 
 </details>
 
@@ -101,4 +80,4 @@ Découvrez mes projets en **Data Science, Machine Learning, IA** et visualisatio
 
 ## 🎉 Merci de visiter mon portfolio !  
 
-✨ N’hésitez pas à explorer mes projets et à me contacter pour collaborer !  
+N’hésitez pas à explorer mes projets et à me contacter pour collaborer !  
